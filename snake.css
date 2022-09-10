@@ -1,0 +1,24 @@
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-weight: bold;
+    background-image: url(https://images.pond5.com/cartoon-jungle-background-waterfall-087554212_prevstill.jpeg);
+}
+
+h1{
+    color: black;
+
+}
+h1 span { 
+    background-color: green; 
+}
+
+p{
+    color: black;
+    font-size: 20px;
+}
+
+p span{
+    background-color: green; 
+}
